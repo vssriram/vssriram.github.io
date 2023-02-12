@@ -1,2 +1,2 @@
 # vssriram.github.io
-Sriram's Homepage
+My Homepage
